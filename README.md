@@ -73,6 +73,12 @@ See Hubspot's [documentation] for more details.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+## License
+
+MIT License. Copyright (c) 2013 Robbie Marcelo, see [LICENSE] for full details.
+
+
 [documentation]: http://github.hubspot.com/vex/
 [vex]: https://github.com/HubSpot/vex/
 [Themes]: http://github.hubspot.com/vex/api/themes/
+[LICENSE]: http://github.com/rbmrclo/vex_rails/blob/master/LICENSE.txt
