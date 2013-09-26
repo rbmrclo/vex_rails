@@ -1,5 +1,6 @@
 require "vex_rails/version"
 
 module VexRails
-  # Your code goes here...
+  require 'vex_rails/engine'
+  require 'vex_rails/version'
 end
